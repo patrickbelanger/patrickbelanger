@@ -6,6 +6,7 @@
 - 👀 I’m interested in Test Automation and Rest Service development (in Java, Kotlin, and TypeScript)
 - ❤️ Love Selenium
 - 🥒 Cucumbers are excellent in salads but taste awful in test scripts
+- 👨‍💻 Project I'm currently working on: Armada Test Automation Ecosystem
 - ❤ Like my content or find my libraries useful? You can show your support and donate [here](https://paypal.me/pbelanger81)
 - 📫 How to reach me ...
     - [LinkedIn](https://www.linkedin.com/in/patrick-b-a6b6a618/)
