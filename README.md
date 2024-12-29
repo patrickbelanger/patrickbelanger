@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrickbelanger
 - 💻 I’m a senior software developer (full-stack) at **Intact Financial Corporation**
 - 💻 I’m a former Specialist Test Automation Developer at **belairdirect** (with over 8 years of experience in QA)
-- 🖥️ Tech stack I work daily: Java, JavaScript, Kotlin, and TypeScript - Framework/Library: Spring Boot, React, and NestJS
+- 🖥️ Tech stack I use daily: Java, JavaScript, Kotlin, and TypeScript - Framework/Library: Spring Boot, React, and NestJS
 - 😄 Pronouns: he/him
 - 👀 I’m interested in Test Automation and Rest Service development (in Java, Kotlin, and TypeScript)
 - ❤️ I Love Selenium
