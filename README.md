@@ -5,6 +5,7 @@
 - 😄 Pronouns: he/him
 - 👀 I’m interested in Test Automation and Rest Service development (in Java, Kotlin, and TypeScript)
 - ❤️ I Love Selenium
+- ⌨️ I also use Cypress
 - 🥒 Cucumbers are excellent in salads but taste awful in test scripts
 - 👨‍💻 Project I'm currently working on:
     -    Armada Test Automation Ecosystem
