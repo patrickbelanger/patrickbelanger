@@ -8,6 +8,7 @@
 - ⌨️ I also use Cypress
 - 🥒 Cucumbers are excellent in salads but taste awful in test scripts
 - 👨‍💻 Project I'm currently working on:
+    -    NanoGPT Proxy
     -    Armada Test Automation Ecosystem
     -    Groq Client
 - ❤ Like my content or find my libraries helpful? You can show your support and donate [here](https://paypal.me/pbelanger81)
